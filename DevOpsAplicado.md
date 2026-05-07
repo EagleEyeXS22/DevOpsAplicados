@@ -1,4 +1,4 @@
-# 🧠 Repositorio Vivo - Diplomado DevOps U. de Chile
+# 🧠 Ejemplo de repositorio
 
 > _"Conocimiento sin aplicación es como YAML sin indentación: no sirve de nada."_
 
@@ -99,8 +99,7 @@
 
 | Fecha | Concepto Aplicado | Resultado | Reflexión |
 |------------|-------------------|-----------|-----------|
-| 2025-05-10 | SonarQube Quality Gate en "new code" | Aprobado con cobertura 75% | Validar reglas al crear nuevos repos, adaptando a las necesidades de la empresa |
-| 2025-05-15 | Modificación en roles por asignar a repositorios y permisos de usuarios en Github | Trabajo junto a Subgerente | Mayor organización y granularidad en administración de repos. |
+
 
 ---
 
